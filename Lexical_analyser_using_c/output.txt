@@ -8,9 +8,11 @@ Line no 		 Token no 		 Lexeme 		 Token
 2				 5				 1			 Digit
 2				 6				 +			 Operator
 2				 7				 2			 Digit
-2				 8				 )			 Special symbol
-2				 9				 ;			 Special symbol
-3				 10				 return		 Keyword
-3				 11				 0			 Digit
-3				 12				 ;			 Special symbol
-4				 13				 }			 Special symbol
+2				 8				 +			 Operator
+2				 9				 3			 Digit
+2				 10				 )			 Special symbol
+2				 11				 ;			 Special symbol
+3				 12				 return		 Keyword
+3				 13				 0			 Digit
+3				 14				 ;			 Special symbol
+4				 15				 }			 Special symbol

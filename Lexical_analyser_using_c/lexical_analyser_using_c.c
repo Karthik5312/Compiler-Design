@@ -3,7 +3,6 @@
 #include <string.h>
 
 FILE *input, *output;
-//int i;
 char str[100], keyword[100][100] = {"int", "main", "void", "return", "continue", "printf"};
 int len = sizeof(keyword) / sizeof(keyword[0]);
 
