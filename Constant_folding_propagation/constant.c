@@ -54,7 +54,7 @@ int main(){
     fold();
     printf("Optimized code\n");
 
-    for(int i=1; i<n; ++i){
+    for(int i=0; i<n; ++i){
         printf("%s %s %s %s\n", exp[i].op, exp[i].op1, exp[i].op2, exp[i].res);
     }
 
